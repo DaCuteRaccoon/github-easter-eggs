@@ -26,3 +26,6 @@ If you don't have any GitHub contributions, you can test it on [my GitHub Skylin
 If you go to https://github.co/video, a special video will be waiting for you!<br/>
 <img src="https://lh3.googleusercontent.com/proxy/-CcwhtuYE12fW7PdPoQOdAZZgQOKro5yDxmvlTWeEj32pwNKES6fXgKUHloIK1vtmpF371wjxKXikwOtRDpx31id_Y232-t6mufESr4bLtftoA" alt="rick astley" style="width:16px;"/>
 
+---
+
+[source](https://dev.to/github/six-secret-easter-eggs-in-github-2j17)
